@@ -1,0 +1,12 @@
+{
+  "Pages": [
+    {
+      "name": "Products",
+      "url": "https://www.parasoft.com/products/"
+    },
+    {
+      "name": "Locations",
+      "url": "https://www.parasoft.com/solutions/"
+    }
+  ]
+}
